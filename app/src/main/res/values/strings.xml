@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">FuelCalculator</string>
+    <string name="fuel_price">Fuel Price</string>
+    <string name="step_1_of_3">Step 1 of 3</string>
+    <string name="next">Next</string>
+    <string name="fuel_calculator">Fuel Calculator</string>
+    <string name="a_calculator_that_helps_you_avoid_surprises_along_the_way">A calculator that helps you avoid surprises along the way!</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="distance">Distance</string>
+    <string name="step_2_of_3">Step 2 of 3</string>
+    <string name="nextt">Next</string>
+    <string name="_1_80">1.80 $</string>
+    <string name="backk">Back</string>
+    <string name="car_consumption">Car consumption</string>
+    <string name="step_3_of_3">Step 3 of 3</string>
+    <string name="nexttt">Next</string>
+    <string name="backkk">Back</string>
+    <string name="mi">Mi</string>
+    <string name="_8_5_mi_l">8.5 mi/l</string>
+    <string name="_51_0">51.0 $</string>
+    <string name="fuel_price_two">Fuel Price</string>
+    <string name="car_consumption_two">Car consumption</string>
+    <string name="restart">Restart</string>
+    <string name="coin">$</string>
+
 </resources>

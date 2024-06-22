@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calcular Combustivel</string>
+    <string name="fuel_price">Preço Do Combustivel</string>
+    <string name="step_1_of_3">Passo 1 de 3</string>
+    <string name="next">Próximo</string>
+    <string name="fuel_calculator">Calculadora de Combustível</string>
+    <string name="a_calculator_that_helps_you_avoid_surprises_along_the_way">Uma calculadora que ajuda você a evitar surpresas no caminho!</string>
+    <string name="start">Iniciar</string>
+    <string name="back">Voltar</string>
+    <string name="distance">Distancia</string>
+    <string name="step_2_of_3">Passo 2 de 3</string>
+    <string name="nextt">Próximo</string>
+    <string name="_1_80">R$ 1.80</string>
+    <string name="backk">Voltar</string>
+    <string name="car_consumption">Consumo do Carro</string>
+    <string name="step_3_of_3">Passo 3 de 3</string>
+    <string name="nexttt">Próximo</string>
+    <string name="backkk">Voltar</string>
+    <string name="mi">Km</string>
+    <string name="_8_5_mi_l">8.5 km/l</string>
+    <string name="_51_0">R$ 51.0</string>
+    <string name="fuel_price_two">Preço do Combustível</string>
+    <string name="car_consumption_two">Consumo do Carro</string>
+    <string name="restart">Reiniciar</string>
+    <string name="coin">R$</string>
+
+</resources>

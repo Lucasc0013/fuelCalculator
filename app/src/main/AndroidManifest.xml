@@ -13,6 +13,18 @@
         android:theme="@style/Theme.FuelCalculator"
         tools:targetApi="31">
         <activity
+            android:name=".StepFour"
+            android:exported="false" />
+        <activity
+            android:name=".StepThree"
+            android:exported="false" />
+        <activity
+            android:name=".StepTwo"
+            android:exported="false" />
+        <activity
+            android:name=".StepOne"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
